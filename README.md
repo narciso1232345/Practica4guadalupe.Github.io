@@ -80,7 +80,7 @@ Guadalupe Guzmán Guadalupe
 <body>
 
 <header>
-    <h1>Motos en Venta</h1>
+    <h1>guadalupe julio</h1>
     <p>¡Encuentra la moto de tus sueños!</p>
 </header>
 
