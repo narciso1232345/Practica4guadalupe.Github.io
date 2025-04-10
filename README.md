@@ -89,7 +89,7 @@ Guadalupe Guzmán Guadalupe
         <img src="https://via.placeholder.com/300x200" alt="Moto 1">
         <h2>Yamaha R3</h2>
         <p>Motor bicilíndrico, 321cc, diseño deportivo.</p>
-        <p class="precio">$4,500 USD</p>
+        <p class="precio">$$155,999.00</p>
         <button class="boton-contacto">Contactar</button>
     </div>
 
@@ -97,7 +97,7 @@ Guadalupe Guzmán Guadalupe
         <img src="https://via.placeholder.com/300x200" alt="Moto 2">
         <h2>Honda CB500F</h2>
         <p>Motor de 471cc, ideal para ciudad y carretera.</p>
-        <p class="precio">$5,200 USD</p>
+        <p class="precio"> $949,990.00 MXN </p>
         <button class="boton-contacto">Contactar</button>
     </div>
 
@@ -105,7 +105,7 @@ Guadalupe Guzmán Guadalupe
         <img src="https://via.placeholder.com/300x200" alt="Moto 3">
         <h2>Kawasaki Ninja 400</h2>
         <p>Estilo agresivo, 399cc, excelente rendimiento.</p>
-        <p class="precio">$5,000 USD</p>
+        <p class="precio">$165,990.00 MXN </p>
         <button class="boton-contacto">Contactar</button>
     </div>
 </div>
