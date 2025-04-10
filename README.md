@@ -111,7 +111,7 @@ Guadalupe Guzmán Guadalupe
 </div>
 
 <footer>
-    <p>© 2025 Tienda de Motos. Todos los derechos reservados.</p>
+    <p>© 2025 MOTOS GUZMAN . Todos los derechos reservados.</p>
 </footer>
 
 </body>
