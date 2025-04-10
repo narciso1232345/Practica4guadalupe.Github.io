@@ -4,7 +4,7 @@ Guadalupe Guzmán Guadalupe
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>motos guzman</title>
+    <title>ventas de motos</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -80,7 +80,7 @@ Guadalupe Guzmán Guadalupe
 <body>
 
 <header>
-    <h1>guadalupe julio</h1>
+    <h1>MOTOS GUZMAN</h1>
     <p>¡Encuentra la moto de tus sueños!</p>
 </header>
 
@@ -111,7 +111,7 @@ Guadalupe Guzmán Guadalupe
 </div>
 
 <footer>
-    <p>© 2025 MOTOS GUZMAN . Todos los derechos reservados.</p>
+    <p>© 2025 tiendas de motos . Todos los derechos reservados.</p>
 </footer>
 
 </body>
