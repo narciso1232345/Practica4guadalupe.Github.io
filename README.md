@@ -89,7 +89,7 @@ Guadalupe Guzmán Guadalupe
         <img src="https://via.placeholder.com/300x200" alt="Moto 1">
         <h2>Yamaha R3</h2>
         <p>Motor bicilíndrico, 321cc, diseño deportivo.</p>
-        <p class="precio">$$155,999.00</p>
+        <p class="precio">$155,999.00</p>
         <button class="boton-contacto">Contactar</button>
     </div>
 
